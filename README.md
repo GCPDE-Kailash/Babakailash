@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding and programmimg with basic to advanced.
 - 🌱 I’m currently learning FullStack development course.
 - 💞️ I’m looking to collaborate our skill with techies and ITCompanies.
+-  I spend my time to plya with Hackerrank. (https://www.hackerrank.com/nathkailash2020)
 - 📫 How to reach me ...Email me on "nathkailash2020@gmail.com"
 
 <!---
